@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.home {
+    background: linear-gradient(120deg, #c30efa, #ff9b05);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}

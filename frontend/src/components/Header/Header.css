@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    display: flex;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+.navbar a {
+   margin-left: 35px; 
+   color: #eeeeee;
+}
+
+.navbar a:hover {
+    color: #40514e;
+}
+
+.language {
+    list-style: none;
+    font-size: 1.25rem;
+}
